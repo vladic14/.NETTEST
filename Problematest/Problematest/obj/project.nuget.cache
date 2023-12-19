@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJ5q8vzmB9VExRz9iLk00Pvm83cWodjDzHQBZLEy0XY1dwQ8kQG3eukqRZYziOHq72xifixMEWdSfs+u7gOHCQ==",
+  "success": true,
+  "projectFilePath": "D:\\python\\Problematest\\Problematest\\Problematest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
